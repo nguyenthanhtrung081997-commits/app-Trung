@@ -1,0 +1,6 @@
+{
+  "summary":  "Kế hoạch cập nhật Bảng thu của lớp chỉ hiển thị ô tích chọn học sinh có tham gia khoản thu, loại bỏ hoàn toàn trạng thái Đã đóng / Chưa đóng khỏi bảng tích chọn và đồng bộ cách tính tổng tiền theo các mục tham gia.",
+  "updatedAt":  "2026-10-24T13:45:03.821380534Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

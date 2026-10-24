@@ -1,0 +1,6 @@
+{
+  "name": "ThuChiEdu — Quản Lý Khoản Thu Học Sinh",
+  "description": "Ứng dụng quản lý các khoản thu học phí, bán trú và quỹ lớp của học sinh với bảng kê từng mục tiền rõ ràng, minh bạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
